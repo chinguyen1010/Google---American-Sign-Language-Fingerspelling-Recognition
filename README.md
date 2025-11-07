@@ -1,4 +1,4 @@
-# Google_American Sign Language Fingerspelling Recognition
+# Google Research Code Competition: American Sign Language Fingerspelling Recognition
 Train fast and accurate American Sign Language fingerspelling recognition models
 
 
