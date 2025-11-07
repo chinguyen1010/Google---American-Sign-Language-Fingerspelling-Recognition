@@ -1,6 +1,7 @@
 # Google Research Code Competition: American Sign Language Fingerspelling Recognition
 Train fast and accurate American Sign Language fingerspelling recognition models
 
+<img width="559" height="280" alt="image" src="https://github.com/user-attachments/assets/46455f65-9e91-43e4-877d-2fb4a4b637b2" />
 
 
 
