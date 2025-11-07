@@ -2,6 +2,7 @@
 Train fast and accurate American Sign Language fingerspelling recognition models
 
 <img width="559" height="280" alt="image" src="https://github.com/user-attachments/assets/46455f65-9e91-43e4-877d-2fb4a4b637b2" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/b7de4667-cab7-47d8-8100-71deb9701d79" />
 
 
 
