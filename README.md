@@ -2,7 +2,6 @@
 Train fast and accurate American Sign Language fingerspelling recognition models
 
 <img width="559" height="280" alt="image" src="https://github.com/user-attachments/assets/46455f65-9e91-43e4-877d-2fb4a4b637b2" />
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/b7de4667-cab7-47d8-8100-71deb9701d79" />
 
 
 
@@ -110,4 +109,6 @@ Thanks to the Deaf Professional Arts Network and their community of Deaf signers
 
 Citation:
 
-Ashley Chow, Glenn Cameron, Manfred Georg, Mark Sherwood, Phil Culliton, Sam Sepah, Sohier Dane, and Thad Starner. Google - American Sign Language Fingerspelling Recognition. https://kaggle.com/competitions/asl-fingerspelling, 2023. Kaggle.
+Ashley Chow, Glenn Cameron, Manfred Georg, Mark Sherwood, Phil Culliton, Sam Sepah, Sohier Dane, and Thad Starner. Google - American Sign Language Fingerspelling Recognition. 
+
+https://kaggle.com/competitions/asl-fingerspelling, 2023. Kaggle.
